@@ -97,7 +97,12 @@ const Footer = () => {
       <div className='footer-bottom'>
         <p>&copy; 2025 PrecisionTech Services | Privacy Policy</p>
         <br></br>
-        <p>Website design and development by Maria Stromova</p>
+        <p>
+    Website design and development by{' '}
+    <a href="https://portfolio-gules-sigma-74.vercel.app" target="_blank" rel="noopener noreferrer">
+      Maria Stromova
+    </a>
+  </p>
       </div>
 
     </div>

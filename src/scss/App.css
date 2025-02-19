@@ -1320,6 +1320,11 @@ div.footer-links li {
   color: white;
 }
 
+.footer-bottom a {
+  text-decoration: none;
+  color: #39C2B7;
+}
+
 .test-animation {
 display: flex;
 flex-direction: column;
@@ -1339,7 +1344,6 @@ position: absolute;
     width: 100%;
     height: 266px;
 }
-
 
 
 /* Media queries */
