@@ -95,7 +95,7 @@ const Footer = () => {
       </div>
      
       <div className='footer-bottom'>
-        <p>&copy; 2025 PrecisionTech Services | Privacy Policy</p>
+        <p>&copy; 2026 PrecisionTech Services | Privacy Policy</p>
         <br></br>
         <p>
     Website design and development by{' '}
